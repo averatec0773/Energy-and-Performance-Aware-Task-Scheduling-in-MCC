@@ -26,9 +26,3 @@ Below are some examples of the visualized results generated from the reproduced 
 
 ### [Step 2]
 ![Visualization Output 3](Images/image_3.png)
-
-## How to Use
-
-1. **Clone this repository**:
-   ```bash
-   git clone https://github.com/your-repo-name.git
